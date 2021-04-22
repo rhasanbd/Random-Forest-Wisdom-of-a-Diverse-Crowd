@@ -2,7 +2,7 @@
 
 If github in unable to render a Jupyter notebook, copy the link of the notebook and enter into the nbviewer: https://nbviewer.jupyter.org/
 
-These notebooks provide an introduction to the Random Forest model 
+These notebooks provide an introduction to the Random Forest model. 
 
 - Notebook 1: Random Forest: Motivation
 
