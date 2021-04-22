@@ -6,12 +6,14 @@ These notebooks provide an introduction to the Random Forest model
 
 - Notebook 1: Random Forest: Motivation
 
+
     -- Task 1: Train the optimal Decision Tree classifier
 
     -- Task 2: Compare the Optimal Decision Tree with a Random Forest Classifier
 
 
 - Notebook 2: Random Forest - Training and Feature Selection
+- 
 
     -- Task 1: Train a Random Forest model optimally by using the bagging method.
 
